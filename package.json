@@ -1,8 +1,8 @@
 {
-  "name": "salesforce-app",
-  "private": true,
+  "name": "@dipakparmar/sentry-salesforce",
+  "private": false,
   "version": "1.0.0",
-  "description": "Salesforce App",
+  "description": "Sentry Salesforce",
   "scripts": {
     "lint": "eslint **/{aura,lwc}/**/*.js",
     "test": "npm run test:unit",

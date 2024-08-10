@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "salesforce-sentry",
+  "name": "sentry-salesforce",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "61.0"
